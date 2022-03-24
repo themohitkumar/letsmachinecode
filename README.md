@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine learning domain
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking for a job
-- 📫 you can reach me on mohit.cse.1727@iiitbh.ac.in and 7355790659
+- 📫 you can reach me on mohit.iiitb@gmail.com and 7355790659
 
 
 <!---
